@@ -23,7 +23,7 @@ A SaaS (Software as a Service) platform that enables users to create communities
 3.  Create a .env file in the root with the following:
    PORT=5000
 MONGO_URI=mongodb://localhost:27017/community-platform
-JWT_SECRET=your_jwt_secret
+JWT_SECRET=1234567
 4.Start the Server---npm start (Frontend) node server.js(Backend)
 
 ScreenShots of App:
